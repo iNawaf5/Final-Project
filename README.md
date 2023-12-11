@@ -21,7 +21,3 @@ The Newegg App aims to address the changing landscape of consumer behaviors in t
    git clone https://github.com/your-username/newegg-app.git
 
    
-cd newegg-app
-npm install
-
-npm start
