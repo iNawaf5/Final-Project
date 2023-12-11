@@ -20,9 +20,7 @@ The Newegg App aims to address the changing landscape of consumer behaviors in t
    ```bash
    git clone https://github.com/your-username/newegg-app.git
 ```bash
-   cd newegg-app   
-   npm install
+cd newegg-app   
+npm install
 
-   npm start
-
-   
+npm start
