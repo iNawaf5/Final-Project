@@ -4,7 +4,7 @@ Welcome to the Newegg App project! Elevate your online electronics shopping expe
 
 ## Project Overview
 
-The Newegg App aims to address the changing landscape of consumer behaviors in the e-commerce sector. By offering seamless user authentication, efficient product browsing, and a secure checkout process, we strive to enhance your shopping journey.
+The Newegg App aims to provide a seamless and efficient platform for online electronics shopping. With features such as secure authentication, efficient product browsing, and real-time order tracking, we aim to enhance your shopping journey.
 
 ## Features
 
@@ -16,14 +16,24 @@ The Newegg App aims to address the changing landscape of consumer behaviors in t
 
 ## Getting Started
 
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-username/newegg-app.git
+### Prerequisites
 
-2. Install dependencies.
-    ```bash 
-   cd newegg-app   
-   npm install
-3. Run the app.
-   ```bash 
-   npm start
+Make sure you have the following installed:
+
+- Node.js
+- npm (Node Package Manager)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/newegg-app.git
+
+# Navigate to the project directory
+cd newegg-app
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
