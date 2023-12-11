@@ -19,8 +19,11 @@ The Newegg App aims to address the changing landscape of consumer behaviors in t
 1. Clone the repository.
    ```bash
    git clone https://github.com/your-username/newegg-app.git
-```bash
-cd newegg-app   
-npm install
 
-npm start
+2. Install dependencies.
+    ```bash 
+   cd newegg-app   
+   npm install
+3. Run the app.
+   ```bash 
+   npm start
